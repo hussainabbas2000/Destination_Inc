@@ -1,0 +1,30 @@
+C:\Users\Haier\source\repos\WebApplication5\dal\bin\Debug\dal.dll
+C:\Users\Haier\source\repos\WebApplication5\dal\bin\Debug\dal.pdb
+C:\Users\Haier\source\repos\WebApplication5\dal\obj\Debug\dal.csprojAssemblyReference.cache
+C:\Users\Haier\source\repos\WebApplication5\dal\obj\Debug\dal.csproj.CoreCompileInputs.cache
+C:\Users\Haier\source\repos\WebApplication5\dal\obj\Debug\dal.dll
+C:\Users\Haier\source\repos\WebApplication5\dal\obj\Debug\dal.pdb
+C:\Users\Lenovo\Desktop\WebApplication5\dal\bin\Debug\dal.dll
+C:\Users\Lenovo\Desktop\WebApplication5\dal\bin\Debug\dal.pdb
+C:\Users\Lenovo\Desktop\WebApplication5\dal\obj\Debug\dal.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\WebApplication5\dal\obj\Debug\dal.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\WebApplication5\dal\obj\Debug\dal.dll
+C:\Users\Lenovo\Desktop\WebApplication5\dal\obj\Debug\dal.pdb
+C:\Users\Hussain\Desktop\new\WebApplication5\dal\obj\Debug\dal.csprojAssemblyReference.cache
+C:\Users\Hussain\Desktop\new\WebApplication5\dal\obj\Debug\dal.csproj.CoreCompileInputs.cache
+C:\Users\Hussain\Desktop\new\WebApplication5\dal\obj\Debug\dal.dll
+C:\Users\Hussain\Desktop\new\WebApplication5\dal\obj\Debug\dal.pdb
+C:\Users\Hussain\Desktop\new\WebApplication5\dal\bin\Debug\dal.dll
+C:\Users\Hussain\Desktop\new\WebApplication5\dal\bin\Debug\dal.pdb
+C:\Users\Hussa\OneDrive\Desktop\WebApplication5\WebApplication5\dal\bin\Debug\dal.dll
+C:\Users\Hussa\OneDrive\Desktop\WebApplication5\WebApplication5\dal\bin\Debug\dal.pdb
+C:\Users\Hussa\OneDrive\Desktop\WebApplication5\WebApplication5\dal\obj\Debug\dal.csprojAssemblyReference.cache
+C:\Users\Hussa\OneDrive\Desktop\WebApplication5\WebApplication5\dal\obj\Debug\dal.csproj.CoreCompileInputs.cache
+C:\Users\Hussa\OneDrive\Desktop\WebApplication5\WebApplication5\dal\obj\Debug\dal.dll
+C:\Users\Hussa\OneDrive\Desktop\WebApplication5\WebApplication5\dal\obj\Debug\dal.pdb
+C:\Users\Hussa\OneDrive\Desktop\PROJECT DB\WebApplication5\WebApplication5\dal\bin\Debug\dal.dll
+C:\Users\Hussa\OneDrive\Desktop\PROJECT DB\WebApplication5\WebApplication5\dal\bin\Debug\dal.pdb
+C:\Users\Hussa\OneDrive\Desktop\PROJECT DB\WebApplication5\WebApplication5\dal\obj\Debug\dal.csproj.AssemblyReference.cache
+C:\Users\Hussa\OneDrive\Desktop\PROJECT DB\WebApplication5\WebApplication5\dal\obj\Debug\dal.csproj.CoreCompileInputs.cache
+C:\Users\Hussa\OneDrive\Desktop\PROJECT DB\WebApplication5\WebApplication5\dal\obj\Debug\dal.dll
+C:\Users\Hussa\OneDrive\Desktop\PROJECT DB\WebApplication5\WebApplication5\dal\obj\Debug\dal.pdb
